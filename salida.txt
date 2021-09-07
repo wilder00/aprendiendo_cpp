@@ -1,0 +1,1 @@
+Escriba el primer número entero: Ahora escriba el segundo número entero: la suma es: 100Escriba el primer número entero: Ahora escriba el segundo número entero: la suma es: 30

@@ -1,0 +1,86 @@
+ 1804  cpp --version
+ 2001  cpp --version
+ 2007  g++ primercpp.cpp
+ 2009  g++ primercpp.cpp -o primercpp
+ 2011  primercpp
+ 2012  ./primercpp
+ 2014  g++ primercpp.cpp -o primercpp
+ 2015  primercpp | echo
+ 2016  ./primercpp | echo
+ 2017  ./primercpp
+ 2018  g++ primercpp.cpp -o primercpp
+ 2019  ./primercpp
+ 2020  g++ primercpp.cpp -o primercpp
+ 2021  ./primercpp
+ 2022  g++ primercpp.cpp -o primercpp
+ 2023  ./primercpp
+ 2026  g++ primercpp.cpp -o primercpp
+ 2027  ./primercpp
+ 2028  g++ primercpp.cpp -o primercpp
+ 2029  ./primercpp
+ 2030  g++ primercpp.cpp -o primercpp
+ 2031  ./primercpp
+ 2032  g++ primercpp.cpp -o primercpp
+ 2033  ./primercpp
+ 2034  g++ primercpp.cpp -o primercpp
+ 2035  ./primercpp
+ 2036  g++ primercpp.cpp -o primercpp
+ 2037  ./primercpp
+ 2038  g++ primercpp.cpp -o primercpp
+ 2039  ./primercpp
+ 2040  g++ 01-SumarEnteros.cpp -o sumarEnteros
+ 2046  g++ primercpp.cpp -o primercpp
+ 2047  g++ 01-SumarEnteros.cpp -0 ./copiled/sumarEnteros
+ 2048  g++ 01-SumarEnteros.cpp -o ./copiled/sumarEnteros
+ 2050  g++ pruebas.cpp -o copiled/pruebas
+ 2052  g++ pruebas.cpp -o copiled/pruebas
+ 2053  g++ pruebas.cpp -o compiled/pruebas
+ 2054  g++ pruebas.cpp -o copiled/pruebas
+ 2055  g++ pruebas.cpp -o compiled/pruebas
+ 2057  g++ pruebas.cpp -o compiled/pruebas
+ 2059  g++ pruebas.cpp -o compiled/pruebas
+ 2061  g++ pruebas.cpp -o compiled/pruebas
+ 2063  g++ pruebas.cpp -o compiled/pruebas
+ 2065  g++ pruebas.cpp -o compiled/pruebas
+ 2067  g++ pruebas.cpp -o compiled/pruebas
+ 2069  g++ pruebas.cpp -o compiled/pruebas
+ 2071  g++ pruebas.cpp -o compiled/pruebas
+ 2073  g++ pruebas.cpp -o compiled/pruebas
+ 2075  g++ pruebas.cpp -o compiled/pruebas
+ 2077  g++ pruebas.cpp -o compiled/pruebas
+ 2079  g++ pruebas.cpp -o compiled/pruebas
+ 2081  g++ pruebas.cpp -o compiled/pruebas
+ 2083  g++ pruebas.cpp -o compiled/pruebas
+ 2085  g++ pruebas.cpp -o compiled/pruebas
+ 2087  g++ pruebas.cpp -o compiled/pruebas
+ 2089  g++ pruebas.cpp -o compiled/pruebas
+ 2091  g++ pruebas.cpp -o compiled/pruebas
+ 2093  g++ pruebas.cpp -o compiled/pruebas
+ 2095  g++ pruebas.cpp -o compiled/pruebas
+ 2097  g++ pruebas.cpp -o compiled/pruebas
+ 2099  g++ pruebas.cpp -o compiled/pruebas
+ 2101  g++ pruebas.cpp -o compiled/pruebas
+ 2103  g++ pruebas.cpp -o compiled/pruebas
+ 2105  g++ pruebas.cpp -o compiled/pruebas
+ 2107  g++ pruebas.cpp -o compiled/pruebas
+ 2109  g++ pruebas.cpp -o compiled/pruebas
+ 2111  g++ pruebas.cpp -o compiled/pruebas
+ 2113  g++ pruebas.cpp -o compiled/pruebas
+ 2140  vim probandoOperadores.cpp
+ 2142  g++ probandoOperadores.cpp -o ./compiled/probandoOperadores
+ 2144  vim probandoOperadores.cpp
+ 2145  g++ probandoOperadores.cpp -o ./compiled/probandoOperadores
+ 2146  vim probandoOperadores.cpp
+ 2148  vim probandoOperadores.cpp
+ 2149  g++ probandoOperadores.cpp -o ./compiled/probandoOperadores
+ 2151  vim probandoOperadores.cpp
+ 2152  g++ probandoOperadores.cpp -o ./compiled/probandoOperadores
+ 2154  g++ probandoOperadores.cpp -o ./compiled/probandoOperadores
+ 2224  g++ hello.cpp -o compiled/hello
+ 2237  g++ main.cpp -o main
+ 2313  code juegocpp
+ 3170  cpp hello
+ 3171  cpp hello.cpp
+ 3172  cpp --help
+ 3174  hostory | grep cpp
+ 3175  history | grep cpp
